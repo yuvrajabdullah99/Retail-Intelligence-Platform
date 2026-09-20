@@ -1,0 +1,61 @@
+promo_id,promo_name,category,start_date,end_date,discount_pct
+1,Diwali Mega Sale,Electronics,2024-03-30,2024-04-07,20
+2,Weekend Flash Sale,Apparel,2024-12-06,2024-12-13,15
+3,Campaign A - Flat 20%,Dairy,2024-01-21,2024-01-25,20
+4,Weekend Flash Sale,Apparel,2024-02-21,2024-03-05,10
+5,Campaign B - Buy1Get1,Beverages,2025-10-06,2025-10-15,30
+6,Campaign B - Buy1Get1,Dairy,2025-03-30,2025-04-09,15
+7,Diwali Mega Sale,Beverages,2025-01-13,2025-01-26,25
+8,Campaign A - Flat 20%,Beverages,2025-01-23,2025-02-05,15
+9,Weekend Flash Sale,Electronics,2024-01-08,2024-01-13,10
+10,Campaign B - Buy1Get1,Dairy,2024-08-24,2024-08-31,15
+11,Campaign B - Buy1Get1,Electronics,2024-01-19,2024-01-23,30
+12,Diwali Mega Sale,Snacks,2024-01-25,2024-02-02,20
+13,Weekend Flash Sale,Beverages,2025-09-21,2025-10-03,30
+14,Campaign C - Flat 10%,Snacks,2024-10-28,2024-11-10,30
+15,End of Season Sale,Electronics,2025-10-26,2025-10-29,30
+16,Weekend Flash Sale,Beverages,2025-06-10,2025-06-15,30
+17,Weekend Flash Sale,Beverages,2024-12-29,2025-01-05,15
+18,Weekend Flash Sale,Electronics,2024-03-24,2024-03-29,15
+19,Campaign A - Flat 20%,Electronics,2025-11-23,2025-12-06,15
+20,End of Season Sale,Electronics,2025-10-25,2025-11-07,10
+21,Diwali Mega Sale,Electronics,2024-07-13,2024-07-24,10
+22,End of Season Sale,Apparel,2025-12-09,2025-12-17,10
+23,Campaign C - Flat 10%,Snacks,2024-04-01,2024-04-07,20
+24,Campaign C - Flat 10%,Snacks,2025-01-25,2025-01-30,30
+25,End of Season Sale,Dairy,2024-01-20,2024-01-26,10
+26,Campaign C - Flat 10%,Apparel,2024-07-30,2024-08-08,25
+27,Diwali Mega Sale,Electronics,2024-04-16,2024-04-22,15
+28,Campaign B - Buy1Get1,Snacks,2025-09-26,2025-10-01,20
+29,Campaign B - Buy1Get1,Beverages,2024-01-01,2024-01-13,10
+30,Campaign C - Flat 10%,Electronics,2024-12-10,2024-12-18,10
+31,Campaign B - Buy1Get1,Apparel,2024-01-01,2024-01-09,25
+32,Campaign B - Buy1Get1,Dairy,2024-10-02,2024-10-10,10
+33,Weekend Flash Sale,Apparel,2025-03-15,2025-03-25,30
+34,Campaign B - Buy1Get1,Dairy,2025-07-21,2025-07-29,25
+35,Weekend Flash Sale,Apparel,2025-09-21,2025-09-29,10
+36,Weekend Flash Sale,Beverages,2024-10-15,2024-10-20,10
+37,Campaign A - Flat 20%,Dairy,2025-07-07,2025-07-11,20
+38,Weekend Flash Sale,Apparel,2024-01-12,2024-01-15,25
+39,Campaign C - Flat 10%,Electronics,2024-07-16,2024-07-22,15
+40,Weekend Flash Sale,Dairy,2025-11-14,2025-11-25,20
+41,End of Season Sale,Electronics,2024-10-28,2024-11-06,30
+42,End of Season Sale,Apparel,2024-03-16,2024-03-27,25
+43,Weekend Flash Sale,Beverages,2024-12-15,2024-12-28,15
+44,Campaign B - Buy1Get1,Dairy,2025-09-10,2025-09-23,30
+45,Campaign A - Flat 20%,Apparel,2024-04-17,2024-04-20,10
+46,Campaign A - Flat 20%,Electronics,2024-10-05,2024-10-15,25
+47,Diwali Mega Sale,Electronics,2025-11-29,2025-12-05,20
+48,End of Season Sale,Snacks,2025-04-03,2025-04-12,10
+49,Weekend Flash Sale,Snacks,2025-02-18,2025-02-27,25
+50,Weekend Flash Sale,Beverages,2024-12-16,2024-12-28,30
+51,Weekend Flash Sale,Dairy,2024-03-16,2024-03-21,15
+52,Weekend Flash Sale,Electronics,2024-01-26,2024-02-03,15
+53,Diwali Mega Sale,Beverages,2024-07-25,2024-07-28,10
+54,Diwali Mega Sale,Snacks,2025-02-24,2025-03-02,30
+55,End of Season Sale,Apparel,2025-06-06,2025-06-19,10
+56,Diwali Mega Sale,Apparel,2025-02-09,2025-02-12,15
+57,Campaign C - Flat 10%,Dairy,2025-04-16,2025-04-19,10
+58,Campaign C - Flat 10%,Beverages,2024-05-31,2024-06-11,10
+59,Diwali Mega Sale,Electronics,2025-01-24,2025-01-28,15
+60,End of Season Sale,Electronics,2025-11-09,2025-11-15,10

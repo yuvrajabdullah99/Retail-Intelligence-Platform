@@ -1,0 +1,9 @@
+store_id,store_name,city,city_tier,latitude,longitude,footfall_index,store_size_sqft,opened_date
+1,Sydney Store 1,Sydney,1,-33.842604,151.203888,1.34,4945,2020-01-07
+2,Sydney Store 2,Sydney,1,-33.910582,151.257562,1.315,11892,2019-08-01
+3,Melbourne Store 1,Melbourne,1,-37.847189,144.955039,1.266,6008,2018-11-20
+4,Melbourne Store 2,Melbourne,1,-37.795613,144.992276,1.285,8955,2022-05-02
+5,Brisbane Store 1,Brisbane,1,-27.464542,152.986382,1.225,7044,2020-05-05
+6,Brisbane Store 2,Brisbane,1,-27.444191,153.015453,1.258,8902,2019-01-20
+7,Adelaide Store 1,Adelaide,2,-34.902162,138.569464,0.844,9475,2023-03-29
+8,Adelaide Store 2,Adelaide,2,-34.964571,138.618305,0.892,8033,2018-09-08
