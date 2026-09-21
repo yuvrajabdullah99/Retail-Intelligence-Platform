@@ -1,10 +1,17 @@
 # Retail Intelligence & Demand Forecasting Platform
 
+### 🔴 [Live dashboard →](https://retail-intellligence-platform.streamlit.app/) · [API docs →](https://retail-intelligence-platform-2kl4.onrender.com/docs)
+
 An end-to-end analytics platform built on a simulated nationwide retail chain
 — 8 stores, 4 Australian cities, 40 SKUs across 5 categories, two years of daily
 transactions. It walks the full data science stack in one repo: **advanced
 SQL → statistics → EDA → feature engineering → ML forecasting → business
 insights → interactive dashboard → containerized deployment.**
+
+> **Note:** the API is hosted on Render's free tier, which spins down after
+> 15 minutes of inactivity — the first request after a quiet period can take
+> 30–60 seconds to wake it up. The dashboard's "Live Forecast" demo calls
+> this API directly, so its first prediction may be slow for the same reason.
 
 ## The point of it
 
